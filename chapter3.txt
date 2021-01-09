@@ -1,1 +1,2 @@
-Then i moved back to my programming business,  now i am currently learning the rudiments of version control more specifically GIT
+Then i moved back to my programming business,  now i am currently learning the rudiments of version control more specifically GIT.
+Hopefully the alien plot will soon be completed.
